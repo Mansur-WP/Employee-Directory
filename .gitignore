@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Django
+*.log
+db.sqlite3
+media/
+venv/
+denv/
+.env
+*.sqlite3
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.swp
+*.swo
+
+# Pip
+pip-log.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Compiled
+*.so
+*.egg-info/
+
+# Staticfiles
+staticfiles/
+
+# Pillow cache
+*.thumb
